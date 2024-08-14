@@ -36,6 +36,6 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 - **Solução:** Calcula o valor da diária e aplica um desconto de 10% se os dias reservados forem 10 ou mais.
 
 ### 5. Tratamento de Exceções
-![Tratamento de Exceções](diagrama_classe_hotel.png)
+![Tratamento de Exceções](Solução.png)
 - **Uso:** Em torno da chamada ao método `CadastrarHospedes`.
 - **Solução:** Usa `try-catch` para capturar e exibir erros relacionados à capacidade da suíte.
